@@ -11,7 +11,7 @@ const FeedView = styled.View`
 const Separator = styled.View`
   height: 1px;
   width: 100%;
-  background-rcolor: #ced0ce;
+  background-color: #ced0ce;
 `;
 
 const notes = [
